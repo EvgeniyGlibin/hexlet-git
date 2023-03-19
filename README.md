@@ -11,7 +11,7 @@ hexlet-my-first-workflow
 ### Второй пробник с ошибкой
 https://github.com/EvgeniyGlibin/hexlet-git/actions/workflows/hello-world/badge.svg
 
-![example workflow](https://github.com/EvgeniyGlibin/hexlet-git/actions/workflows/hello-world/badge.svg)
+![example workflow](https://github.com/EvgeniyGlibin/hexlet-git/actions/workflows/hello_world.yml/badge.svg)
 
 ### Третий пробник бэйджа:
 [![Actions Status](https://github.com/EvgeniyGlibin/hexlet-git/workflows/hello-world/badge.svg)](https://github.com/EvgeniyGlibin/hexlet-git/actions)
