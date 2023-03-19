@@ -6,3 +6,7 @@ hexlet-my-first-workflow
 
 ### Пробный бэйдж:
 [![Actions Status](https://github.com/EvgeniyGlibin/hexlet-git/workflows/hello-world_1/badge.svg)](https://github.com/EvgeniyGlibin/hexlet-git/actions)
+
+
+### Второй пробник с ошибкой
+https://github.com/EvgeniyGlibin/hexlet-git/actions/workflows/hello-world_1/badge.svg
