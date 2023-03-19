@@ -15,3 +15,9 @@ https://github.com/EvgeniyGlibin/hexlet-git/actions/workflows/hello_world.yml/ba
 
 ### Третий пробник бэйджа:
 [![Actions Status](https://github.com/EvgeniyGlibin/hexlet-git/workflows/hello-world/badge.svg)](https://github.com/EvgeniyGlibin/hexlet-git/actions)
+
+### Для первого
+![example workflow](https://github.com/EvgeniyGlibin/hexlet-git/actions/workflows/hello-world_1/badge.svg)
+
+### Для первого
+![example workflow](https://github.com/EvgeniyGlibin/hexlet-git/actions/workflows/test1.yml/badge.svg)
